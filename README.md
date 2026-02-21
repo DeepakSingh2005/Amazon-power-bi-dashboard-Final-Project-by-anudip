@@ -13,7 +13,8 @@ This project presents a comprehensive Business Intelligence analysis using a Pow
 - Generate actionable business insights  
 
 ## 🖼️ Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1329" height="729" alt="Screenshot 2026-02-21 124639" src="https://github.com/user-attachments/assets/29613ef1-686d-42eb-b160-af5c01526b2d" />
+
 
 ## 📊 Key Features
 
